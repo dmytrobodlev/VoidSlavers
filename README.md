@@ -1,2 +1,0 @@
-# VoidSlavers
-Created with CodeSandbox
